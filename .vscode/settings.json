@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.asm": "fsharp",
+        "setjmp.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "stdbool.h": "c",
+        "assert.h": "c"
+    }
+}
